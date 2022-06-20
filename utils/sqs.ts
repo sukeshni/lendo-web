@@ -4,8 +4,8 @@ import { ReceiveMessageResult } from "aws-sdk/clients/sqs";
 import "dotenv/config";
 
 const credentials = {
-  accessKeyId: process.env.AWS_ACCESS_KEY as string,
-  secretAccessKey: process.env.AWS_SECRET as string,
+  accessKeyId: process.env.ACCESS_KEY_AWS as string,
+  secretAccessKey: process.env.SECRET_AWS as string,
 };
 
 // Set the region
