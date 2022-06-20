@@ -20,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 https://lendo-web.vercel.app
 
-## Run this NextJS app with Docker
+## Run this NextJS app with Docker (WIP)
 
 - Download the Lendo web app from:
   docker pull lendo-web-app:latest
